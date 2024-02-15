@@ -4,7 +4,7 @@ Alışveriş Sepeti
 
 <h2>Kullanılan Teknolojiler</h2>
 
-HTML | CSS | BOOTSTRAP | JavaScript
+HTML | CSS | BOOTSTRAP | JavaScript | API
 
 <h2>Açıklama</h2>
 
